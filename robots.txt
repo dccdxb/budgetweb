@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.budgetweb.in/sitemap.xml
+
+# AI/search crawler guidance
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /ai.txt

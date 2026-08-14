@@ -1,0 +1,17 @@
+{
+  "name": "BudgetWeb",
+  "short_name": "BudgetWeb",
+  "description": "Professional website design, development, hosting, SEO and AI search optimization.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1d3a",
+  "theme_color": "#0b1d3a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
